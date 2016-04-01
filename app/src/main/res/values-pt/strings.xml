@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Financial-Agenda</string>
+    <!-- login_layout-->
+    <string name="username">Nome de usuário:</string>
+    <string name="password">Senha:</string>
+    <string name="login">Login</string>
+    <string name="invalid">Login inválido</string>
+    <!-- menu_principal-->
+    <string name="new_task">Nova Tarefa</string>
+    <string name="exit">Sair</string>
+    <!-- cadastro_layout-->
+    <string name="description">Descrição:</string>
+    <string name="date">Data:</string>
+    <string name="hour">Horário:</string>
+    <string name="content">Conteúdo:</string>
+    <string name="defined">Definida:</string>
+    <string name="datehour">Data e Horário:</string>
+    <string name="save">Salvar</string>
+    <!-- lista_layout-->
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+</resources>
